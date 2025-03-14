@@ -1,0 +1,28 @@
+This is a curated list of public datasets in multiple domains, including machine learning, NLP, computer vision, and more. 
+
+Text and NLP
+Images and Computer Vision
+Speech
+Time Series
+Financial data
+Health and medicine
+2. UCI Machine Learning Repository
+The UCI Machine Learning Repository is a popular collection of datasets used for machine learning research. You can find classic datasets like:
+
+Iris dataset
+Wine dataset
+Adult income dataset
+The GitHub repo has links to many datasets along with the associated documentation.
+
+3. Kaggle Datasets
+Kaggle offers a vast collection of datasets across many domains. Many of these datasets are available for download, and Kaggle also provides API access to fetch datasets directly into your projects. Kaggle datasets include:
+
+Titanic survival prediction
+MNIST digits
+House price prediction
+COVID-19 data
+Although not hosted on GitHub, you can find Kaggle datasets and integrate them with your GitHub projects.
+
+4. Google Dataset Search
+This search engine lets you find datasets across the web, many of which are hosted on GitHub. It’s a great tool for finding more niche datasets.
+
